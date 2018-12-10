@@ -1,0 +1,11 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"HTML" : "40",
+		"CSS" : "30",
+		"JavaScript" : "5",
+		"MarkDown" : "95",
+		"PhpMyAdmin" : "90",
+		"Photoshop" : "50"
+	}
+}

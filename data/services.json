@@ -1,0 +1,15 @@
+{
+	"title" : "Services",
+	"services" : [
+		{
+			"icon" : "pencil-ruler",
+			"title" : "Site Content",
+			"description" : "Add content through various CMS and admin panels, including selfmaden ones"
+		},
+		{
+			"icon" : "pen-nib",
+			"title" : "Photo Editing",
+			"description" : "Pick up photo, processing photos, changing the background and size photos"
+		}
+	]
+}

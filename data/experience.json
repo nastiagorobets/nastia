@@ -1,0 +1,25 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "Jun 2015 - Aug 2016",
+			"company" : "BlurPix Studio",
+			"description" : "Content management in Yii2, Drupal, Bitrix, Wordpress and selfmaded CMS. HTML5, CSS3. Remote and personal work with customers. Analytics of the company's website in Yandex.metrics and management of contextual advertising in Yandex.Direct. Departures for meeting with customers, signing contracts, discussing nuances. Other head commands."
+		},
+		{
+			"timeperiod" : "Aug 2016 - Jun 2017",
+			"company" : "Vertex",
+			"description" : "Work in a team of 5 people: a designer, 2 programmers, a marketer and a content manager. Creation of TK. Checking tasks after execution and their quality. Collection, entry and editing information in 1C-enterprise, Excel, PhpMyAdmin, 1C Bitrix and other CMS (WordPress, Yii). Parsing Yandex.market, collection and processing of photos. Creation of longridids. Creation of advertising campaigns with the nomenclature of the online store. Monitoring competitors, identifying the benefits."
+		},
+		{
+			"timeperiod" : "Nov 2017 - Dec 2017",
+			"company" : "Grizzli",
+			"description" : "Development and coordination of site content strategy. Placement on the site of information about the services of the company, news, announcements, articles. Structuring of information. Drawing up short descriptions of goods-activities. Selection and editing of visual content (images, video, infographic)."
+		},
+		{
+			"timeperiod" : "Jun 2018 - Nov 2018",
+			"company" : "Esport24",
+			"description" : "Collection, entry and editing information in Excel, PhpMyAdmin, 1C Bitrix and other CMS (Drupal, WordPress, Yii). Coordination of the work of copywriters and designers (total - 3 people), adding tasks to the programmer. Work with freelancers. Communication with customers and partners. Control the correctness of the site. Informing about complex problems. Correcting errors on the site."
+		}
+	]
+}
